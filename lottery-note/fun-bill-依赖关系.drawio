@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T06:55:12.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="kyraeoGEfmJstgAxyZH_" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T07:02:07.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="l0eYriSBpfJOOU4opQG1" version="23.1.5" type="github">
   <diagram name="01-目录结构" id="xrEwQbncAEOwUhqF7Rrp">
     <mxGraphModel dx="1188" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,17 +121,20 @@
             <mxPoint x="250" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-n35vU0YK7nYJW8cfS_-31" value="触发器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j-n35vU0YK7nYJW8cfS_-31" value="触发调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="295" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j-n35vU0YK7nYJW8cfS_-32" value="业务逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j-n35vU0YK7nYJW8cfS_-32" value="领域服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j-n35vU0YK7nYJW8cfS_-33" value="基础设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j-n35vU0YK7nYJW8cfS_-34" value="启动入口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j-n35vU0YK7nYJW8cfS_-34" value="应用封装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j-n35vU0YK7nYJW8cfS_-35" value="通用类型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="535" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
