@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T03:03:04.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="nwp-PQMz1xRPQxxvwVy3" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-28T03:04:26.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="TNow4IlXNQDX7NKJbVpt" version="24.3.1" type="github" pages="7">
   <diagram name="01-目录结构" id="xrEwQbncAEOwUhqF7Rrp">
     <mxGraphModel dx="1174" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1024,8 +1024,13 @@
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-201" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="230" y="1635" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wBegVAh1NwFuYcoLLn_Z-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-203" target="wBegVAh1NwFuYcoLLn_Z-213" edge="1">
+        <mxCell id="wBegVAh1NwFuYcoLLn_Z-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=Times New Roman;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-203" target="wBegVAh1NwFuYcoLLn_Z-213" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IagJjIfXyDcaukwO4-QY-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="wBegVAh1NwFuYcoLLn_Z-202">
+          <mxGeometry x="-0.1896" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-203" value="是否有本地Token" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="110" y="1110" width="80" height="60" as="geometry" />
@@ -1157,7 +1162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-238" value="删除角色" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1295" width="80" height="40" as="geometry" />
+          <mxGeometry x="380" y="1295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-243" target="wBegVAh1NwFuYcoLLn_Z-249" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1176,7 +1181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-243" value="是否删除成功" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1385" width="80" height="60" as="geometry" />
+          <mxGeometry x="380" y="1385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-244" value="显示为空" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="-220" y="1395" width="80" height="40" as="geometry" />
@@ -1200,7 +1205,7 @@
           <mxGeometry x="230" y="1495" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-249" value="修改成功" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1495" width="80" height="30" as="geometry" />
+          <mxGeometry x="380" y="1495" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-250" value="提示添加失败" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry y="1395" width="80" height="40" as="geometry" />
@@ -1209,7 +1214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-252" value="提示删除失败" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1395" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="1395" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-247" target="wBegVAh1NwFuYcoLLn_Z-201" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1222,7 +1227,7 @@
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-249" target="wBegVAh1NwFuYcoLLn_Z-201" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="1575" />
+              <mxPoint x="420" y="1575" />
               <mxPoint x="270" y="1575" />
             </Array>
           </mxGeometry>
