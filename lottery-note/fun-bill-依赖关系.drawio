@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T02:51:10.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="XsVypc28k5AM9KF6glxf" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-28T02:54:33.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="NXSeH02SwrMjPVkR7K1H" version="24.3.1" type="github" pages="7">
   <diagram name="01-目录结构" id="xrEwQbncAEOwUhqF7Rrp">
     <mxGraphModel dx="1174" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1019,7 +1019,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-200" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1045" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="1025" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-201" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="230" y="1635" width="80" height="30" as="geometry" />
@@ -1028,10 +1028,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-203" value="是否有本地Token" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1135" width="60" height="50" as="geometry" />
+          <mxGeometry x="110" y="1110" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-204" value="跳转到登录页面" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1295" width="100" height="30" as="geometry" />
+          <mxGeometry x="550" y="1295" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-205" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-203" target="wBegVAh1NwFuYcoLLn_Z-204" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1076,25 +1076,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-215" value="列表显示" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1295" width="80" height="30" as="geometry" />
+          <mxGeometry x="-150" y="1295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-217" target="wBegVAh1NwFuYcoLLn_Z-226" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-217" value="查看角色" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1295" width="80" height="30" as="geometry" />
+          <mxGeometry x="-30" y="1295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-219" target="wBegVAh1NwFuYcoLLn_Z-231" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-219" value="添加角色" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1295" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="1295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-221" target="wBegVAh1NwFuYcoLLn_Z-236" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-221" value="修改角色" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="230" y="1295" width="80" height="30" as="geometry" />
+          <mxGeometry x="230" y="1295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-226" target="wBegVAh1NwFuYcoLLn_Z-246" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1113,7 +1113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-226" value="查询是否有数据" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="1385" width="60" height="50" as="geometry" />
+          <mxGeometry x="-100" y="1385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-231" target="wBegVAh1NwFuYcoLLn_Z-247" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1132,7 +1132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-231" value="是否添加成功" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="120" y="1385" width="60" height="50" as="geometry" />
+          <mxGeometry x="110" y="1385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-236" target="wBegVAh1NwFuYcoLLn_Z-248" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1151,13 +1151,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-236" value="是否修改成功" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1385" width="60" height="50" as="geometry" />
+          <mxGeometry x="230" y="1385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-238" target="wBegVAh1NwFuYcoLLn_Z-243" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-238" value="删除角色" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1295" width="80" height="30" as="geometry" />
+          <mxGeometry x="370" y="1295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-243" target="wBegVAh1NwFuYcoLLn_Z-249" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1176,10 +1176,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-243" value="是否删除成功" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1385" width="60" height="50" as="geometry" />
+          <mxGeometry x="370" y="1385" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-244" value="显示为空" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="1395" width="80" height="30" as="geometry" />
+          <mxGeometry x="-220" y="1395" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-246" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1203,13 +1203,13 @@
           <mxGeometry x="370" y="1495" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-250" value="提示添加失败" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1395" width="80" height="30" as="geometry" />
+          <mxGeometry y="1395" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-248" target="wBegVAh1NwFuYcoLLn_Z-201" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-252" value="提示删除失败" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1395" width="80" height="30" as="geometry" />
+          <mxGeometry x="490" y="1395" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;fontSize=16;fontFamily=宋体;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-247" target="wBegVAh1NwFuYcoLLn_Z-201" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1228,7 +1228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-255" value="提示修改失败" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1355" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="1355" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontFamily=Times New Roman;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-257" target="wBegVAh1NwFuYcoLLn_Z-260" edge="1">
           <mxGeometry relative="1" as="geometry" />
