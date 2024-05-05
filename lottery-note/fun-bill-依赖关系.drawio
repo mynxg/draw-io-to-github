@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T10:49:13.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="MjytBGg41RyqZR0Haona" version="24.3.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-05-05T10:52:45.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="y-qzrWEIVPlIIGiXU4QG" version="24.3.1" type="github" pages="8">
   <diagram name="01-目录结构" id="xrEwQbncAEOwUhqF7Rrp">
     <mxGraphModel dx="1460" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -642,7 +642,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vF_b_urSE787iJHV_A2z" name="01-流程图">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2660" dy="1269" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1092,7 +1092,7 @@
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-203" value="是否有本地Token" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="110" y="1110" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wBegVAh1NwFuYcoLLn_Z-204" value="跳转到登录页面" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="wBegVAh1NwFuYcoLLn_Z-204" value="跳转到登录页面" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="550" y="1295" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wBegVAh1NwFuYcoLLn_Z-205" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;fontFamily=宋体;strokeWidth=1.5;" parent="1" source="wBegVAh1NwFuYcoLLn_Z-203" target="wBegVAh1NwFuYcoLLn_Z-204" edge="1">
@@ -3826,7 +3826,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fBj8scBvbd2lrIB5NpC1" name="E-R图">
-    <mxGraphModel dx="2500" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2260" dy="869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
