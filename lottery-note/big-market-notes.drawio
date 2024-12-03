@@ -8,10 +8,31 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YPmZ2OA5JyaN2fc3QNfN" name="抽奖流程">
-    <mxGraphModel dx="1508" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tOgQPt1uO_VoPih-6Qut-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOgQPt1uO_VoPih-6Qut-2" value="黑名单过滤" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOgQPt1uO_VoPih-6Qut-3" value="过滤规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOgQPt1uO_VoPih-6Qut-4" value="白名单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOgQPt1uO_VoPih-6Qut-5" value="抽奖前过滤" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOgQPt1uO_VoPih-6Qut-6" value="抽奖中过滤" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOgQPt1uO_VoPih-6Qut-7" value="抽奖后" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
